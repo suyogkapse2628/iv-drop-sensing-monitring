@@ -1,0 +1,237 @@
+{
+  "patients": [
+    {
+      "id": "P-001",
+      "bed": "Bed 01",
+      "ward": "ICU-1",
+      "name": "Riya Sharma",
+      "diagnosis": "Severe Dengue",
+      "node": "NODE-01",
+      "status": "NORMAL",
+      "dob": "2003-05-12",
+      "gender": "Female",
+      "doctor": "Dr. Anil Sharma",
+      "admissionDate": "2026-08-26",
+      "admissionTime": "10:30",
+      "photoUrl": "",
+      "iv": {
+        "fluid": "Normal Saline",
+        "bottleSize": "500 ml",
+        "level": 72,
+        "flowRate": 60,
+        "drops": 20,
+        "clamp": "Open"
+      },
+      "vitals": {
+        "heartRate": 72,
+        "spo2": 98,
+        "temperature": 98.6
+      },
+      "history": []
+    },
+    {
+      "id": "P-002",
+      "bed": "Bed 02",
+      "ward": "ICU-1",
+      "name": "Atharv patel",
+      "diagnosis": "Septic Shock",
+      "node": "NODE-02",
+      "status": "EMERGENCY",
+      "dob": "1998-09-21",
+      "gender": "Male",
+      "doctor": "Dr. Meera Rao",
+      "admissionDate": "2026-08-26",
+      "admissionTime": "08:15",
+      "photoUrl": "",
+      "iv": {
+        "fluid": "Ringer Lactate",
+        "bottleSize": "500 ml",
+        "level": 12,
+        "flowRate": 120,
+        "drops": 40,
+        "clamp": "Open"
+      },
+      "vitals": {
+        "heartRate": 112,
+        "spo2": 91,
+        "temperature": 101.2
+      },
+      "history": []
+    },
+    {
+      "id": "P-003",
+      "bed": "Bed 03",
+      "ward": "ICU-1",
+      "name": "Meera Nambiar",
+      "diagnosis": "Post-Op Cardiac",
+      "node": "NODE-03",
+      "status": "NORMAL",
+      "dob": "1979-02-18",
+      "gender": "Female",
+      "doctor": "Dr. Vikram Iyer",
+      "admissionDate": "2026-08-25",
+      "admissionTime": "17:20",
+      "photoUrl": "",
+      "iv": {
+        "fluid": "Normal Saline",
+        "bottleSize": "500 ml",
+        "level": 100,
+        "flowRate": 60,
+        "drops": 20,
+        "clamp": "Open"
+      },
+      "vitals": {
+        "heartRate": 68,
+        "spo2": 99,
+        "temperature": 98.2
+      },
+      "history": []
+    },
+    {
+      "id": "P-004",
+      "bed": "Bed 04",
+      "ward": "ICU-2",
+      "name": "Yougesh raut",
+      "diagnosis": "Acute Pancreatitis",
+      "node": "NODE-04",
+      "status": "NORMAL",
+      "dob": "1988-11-02",
+      "gender": "Male",
+      "doctor": "Dr. Neha Kulkarni",
+      "admissionDate": "2026-08-24",
+      "admissionTime": "14:00",
+      "photoUrl": "",
+      "iv": {
+        "fluid": "Dextrose 5%",
+        "bottleSize": "500 ml",
+        "level": 75,
+        "flowRate": 85,
+        "drops": 28,
+        "clamp": "Open"
+      },
+      "vitals": {
+        "heartRate": 82,
+        "spo2": 97,
+        "temperature": 99.1
+      },
+      "history": []
+    },
+    {
+      "id": "P-005",
+      "bed": "Bed 05",
+      "ward": "ICU-2",
+      "name": "Priya Deshmukh",
+      "diagnosis": "Severe Dehydration",
+      "node": "NODE-05",
+      "status": "COMPLETED",
+      "dob": "1995-06-14",
+      "gender": "Female",
+      "doctor": "Dr. Amit Joshi",
+      "admissionDate": "2026-08-23",
+      "admissionTime": "11:10",
+      "photoUrl": "",
+      "iv": {
+        "fluid": "Normal Saline",
+        "bottleSize": "1000 ml",
+        "level": 0,
+        "flowRate": 0,
+        "drops": 0,
+        "clamp": "Closed"
+      },
+      "vitals": {
+        "heartRate": 76,
+        "spo2": 99,
+        "temperature": 98.4
+      },
+      "history": []
+    },
+    {
+      "id": "P-006",
+      "bed": "Bed 06",
+      "ward": "General Ward",
+      "name": "Amitabh Sen",
+      "diagnosis": "Pneumonia",
+      "node": "NODE-06",
+      "status": "NORMAL",
+      "dob": "1968-03-08",
+      "gender": "Male",
+      "doctor": "Dr. Anil Sharma",
+      "admissionDate": "2026-08-26",
+      "admissionTime": "09:05",
+      "photoUrl": "",
+      "iv": {
+        "fluid": "Normal Saline",
+        "bottleSize": "500 ml",
+        "level": 72,
+        "flowRate": 50,
+        "drops": 16,
+        "clamp": "Open"
+      },
+      "vitals": {
+        "heartRate": 80,
+        "spo2": 96,
+        "temperature": 99
+      },
+      "history": []
+    },
+    {
+      "id": "P-007",
+      "bed": "Bed 07",
+      "ward": "General Ward",
+      "name": "Sneha Iyer",
+      "diagnosis": "Gastroenteritis",
+      "node": "NODE-07",
+      "status": "NORMAL",
+      "dob": "1992-07-29",
+      "gender": "Female",
+      "doctor": "Dr. Meera Rao",
+      "admissionDate": "2026-08-26",
+      "admissionTime": "12:00",
+      "photoUrl": "",
+      "iv": {
+        "fluid": "ORS IV",
+        "bottleSize": "500 ml",
+        "level": 58,
+        "flowRate": 75,
+        "drops": 25,
+        "clamp": "Open"
+      },
+      "vitals": {
+        "heartRate": 78,
+        "spo2": 98,
+        "temperature": 98.7
+      },
+      "history": []
+    },
+    {
+      "id": "P-008",
+      "bed": "Bed 08",
+      "ward": "General Ward",
+      "name": "Rajesh Khanna",
+      "diagnosis": "Cellulitis",
+      "node": "NODE-08",
+      "status": "WARNING",
+      "dob": "1972-10-11",
+      "gender": "Male",
+      "doctor": "Dr. Vikram Iyer",
+      "admissionDate": "2026-08-25",
+      "admissionTime": "19:45",
+      "photoUrl": "",
+      "iv": {
+        "fluid": "Normal Saline",
+        "bottleSize": "500 ml",
+        "level": 16,
+        "flowRate": 40,
+        "drops": 13,
+        "clamp": "Open"
+      },
+      "vitals": {
+        "heartRate": 94,
+        "spo2": 94,
+        "temperature": 100.4
+      },
+      "history": []
+    }
+  ],
+  "prescriptions": []
+}
